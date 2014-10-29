@@ -2,6 +2,8 @@ Wizard101 Damage Calculator
 =============
 **Fansite Owners, YouTubers, Streamers, and Parakeets!** If you'd like to host this tool on your site/channel, feel free to link them to this page! Please do not rehost the files as this is under active development. Thanks!
 
+10/29/2014: You can get the first build [here](https://www.dropbox.com/sh/9red1jzlf4urklp/AADNH6WT2dENPWwv_blRhPq6a?dl=0)! There's probably bugs, let me know what's going on over [Twitter.](http://twitter.com/wizard0fbass) I'm also having trouble pushing things to GitHub, so I'm gonna host the code on my Dropbox for now.
+
 ## About ##
 
 This is a damage calculator for the MMORPG game Wizard101, created by Kingsisle Entertainment. You can check out the game [here.](https://www.wizard101.com/game)
